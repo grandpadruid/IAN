@@ -1,0 +1,8 @@
+  /* 這是css的註解 */
+  /* css選擇器 */
+  /*標籤名稱選擇器 */
+  body{background-color: cyan}
+  /* class 選擇器 */
+  .title{style=color:red;font-weight:bold;font-size:24px}   
+  .content{ style=color:blue;border:1px dashed blue;padding:10px;margin-top: 10px}
+  .ketword{ style=color:coral }
